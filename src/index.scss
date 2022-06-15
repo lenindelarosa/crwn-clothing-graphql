@@ -1,11 +1,9 @@
 body {
   margin: 0;
   padding: 20px 40px;
-  font-family: 'Open Sans',
-    sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  min-width: 350px;
 }
 
 code {
@@ -17,11 +15,6 @@ a {
   text-decoration: none;
   color: black;
 }
-
-// span {
-//   font-size: min(max(15px, 1.5vw), 20px);
-// }
-
 
 * {
   box-sizing: border-box;
